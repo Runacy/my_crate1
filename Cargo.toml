@@ -4,7 +4,8 @@ version = "0.1.0"
 edition = "2021"
 # descriptionとlicenceは最低限必要らしい
 description="my_crate1 my first rust crate"
-licence="MIT"
+license="MIT"
+
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
